@@ -1,4 +1,5 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nvb201112/fix-lag/refs/heads/main/fix%20lag%20new.luau"))()
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nvb201112/fix-lag/refs/heads/main/fix%20lag%20new.luau"))()
 -- cuhub modified
 
